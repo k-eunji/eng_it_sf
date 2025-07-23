@@ -1,0 +1,36 @@
+﻿Minute,Player,Team,xG,PSxG,Outcome,Distance,Body Part,Notes,SCA1Player,SCA1Event,SCA2Player,SCAEvent
+11,Lauren James,England,0.29,0.17,Saved,12,Right Foot,,Georgia Stanway,Pass (Live),Lauren Hemp,Pass (Live)
+20,Alessia Russo,England,0.1,0,Off Target,12,Right Foot,,Ella Toone,Pass (Live),Alex Greenwood,Pass (Live)
+21,Sofia Cantore,Italy,0.04,0,Off Target,27,Right Foot,Volley,Barbara Bonansea,Pass (Live),Elena Linari,Pass (Live)
+23,Lauren Hemp,England,0.02,0,Off Target,11,Head,,Lauren James,Pass (Live),Ella Toone,Pass (Live)
+33,Cristiana Girelli,Italy,0.41,0,Off Target,6,Left Foot,,Sofia Cantore,Pass (Live),Arianna Caruso,Pass (Live)
+33,Barbara Bonansea,Italy,0.33,0.58,Goal,6,Left Foot,,Cristiana Girelli,Shot,,
+38,Lauren James,England,0.11,0.21,Saved,15,Right Foot,,Lauren Hemp,Pass (Live),Alessia Russo,Pass (Live)
+44,Arianna Caruso,Italy,0.02,0,Off Target,32,Right Foot,,Manuela Giugliano,Pass (Dead),Sofia Cantore,Fouled
+49,Alex Greenwood,England,0.05,0,Off Target,24,Left Foot,Volley,Beth Mead,Pass (Live),Georgia Stanway,Pass (Live)
+51,Lauren Hemp,England,0.19,0,Off Target,6,Head,,Ella Toone,Pass (Live),Beth Mead,Pass (Live)
+52,Keira Walsh,England,0.1,0,Blocked,22,Left Foot,,Keira Walsh,Take-On,Keira Walsh,Take-On
+52,Lauren Hemp,England,0.05,0.35,Saved,15,Right Foot,,Lucy Bronze,Pass (Live),Keira Walsh,Shot
+53,Sofia Cantore,Italy,0.07,0.11,Saved,16,Right Foot,,Cristiana Girelli,Pass (Live),Elisabetta Oliviero,Pass (Live)
+56,Keira Walsh,England,0.03,0,Off Target,31,Right Foot,,Lucy Bronze,Pass (Live),Georgia Stanway,Pass (Live)
+57,Georgia Stanway,England,0.19,0,Blocked,15,Right Foot,,Alessia Russo,Pass (Live),Lauren Hemp,Pass (Live)
+70,Ella Toone,England,0.03,0,Off Target,30,Right Foot,,Lucy Bronze,Pass (Live),,
+73,Georgia Stanway,England,0.02,0,Off Target,32,Right Foot,,Beth Mead,Pass (Live),Beth Mead,Interception
+76,Alessia Russo,England,0.29,0,Blocked,6,Right Foot,,Lucy Bronze,Pass (Live),Georgia Stanway,Pass (Live)
+77,Arianna Caruso,Italy,0.01,0,Off Target,37,Right Foot,,Emma Severini,Pass (Live),Laura Giuliani,Pass (Dead)
+78,Martina Piemonte,Italy,0.04,0,Off Target,12,Head,,Arianna Caruso,Pass (Live),Martina Piemonte,Pass (Live)
+79,Chloe Kelly,England,0.06,0,Blocked,16,Left Foot,,Alessia Russo,Pass (Live),Keira Walsh,Pass (Live)
+80,Lucy Bronze,England,0.09,0,Blocked,6,Head,,Chloe Kelly,Pass (Dead),Chloe Kelly,Shot
+86,Michela Cambiaghi,Italy,0.02,0.02,Saved,17,Right Foot,,Manuela Giugliano,Pass (Dead),,
+86,Emma Severini,Italy,0.13,0.12,Saved,10,Left Foot,,Michela Cambiaghi,Shot,,
+90+2,Elisabetta Oliviero,Italy,0.01,0,Off Target,35,Right Foot,,Martina Piemonte,Pass (Live),,
+90+4,Keira Walsh,England,0.04,0,Blocked,17,Right Foot,,Ella Toone,Pass (Live),Michelle Agyemang,Pass (Live)
+90+6,Michelle Agyemang,England,0.16,0.39,Goal,10,Right Foot,,Lucy Bronze,Pass (Live),Esme Morgan,Pass (Live)
+90+9,Agnes Beever-Jones,England,0.02,0,Off Target,13,Head,,Keira Walsh,Pass (Live),Chloe Kelly,Pass (Live)
+97,Giada Greggi,Italy,0.03,0.06,Saved,29,Right Foot,,Lucia Di Guglielmo,Pass (Live),Arianna Caruso,Pass (Live)
+98,Chloe Kelly,England,0.03,0,Off Target,16,Left Foot,,Chloe Kelly,Take-On,Beth Mead,Pass (Live)
+109,Lucy Bronze,England,0.01,0.25,Saved,14,Head,,Alex Greenwood,Pass (Live),Esme Morgan,Pass (Live)
+115,Alex Greenwood,England,0.01,0,Blocked,13,Head,,Chloe Kelly,Pass (Dead),Lucy Bronze,Pass (Live)
+117,Michelle Agyemang,England,0.04,0,Woodwork,13,Right Foot,Volley,Hannah Hampton,Pass (Live),,
+119,Chloe Kelly (pen),England,0.73,0.63,Saved,13,Right Foot,,Beth Mead,Fouled,Michelle Agyemang,Pass (Live)
+119,Chloe Kelly,England,0.27,0.42,Goal,5,Left Foot,,Chloe Kelly,Shot,,
